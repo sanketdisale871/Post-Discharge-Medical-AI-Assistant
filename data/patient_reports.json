@@ -1,0 +1,327 @@
+[
+    {
+        "patient_name": "Melissa Morrow",
+        "discharge_date": "2025-05-29",
+        "primary_diagnosis": "Hypertensive Nephropathy",
+        "medications": [
+            "Amlodipine 5mg daily",
+            "Hydrochlorothiazide 25mg daily"
+        ],
+        "dietary_restrictions": "Low sodium, low protein diet",
+        "follow_up": "Family physician in 1 week",
+        "warning_signs": "High BP, headache, chest pain",
+        "discharge_instructions": "Check BP twice daily, avoid high-sodium foods"
+    },
+    {
+        "patient_name": "Ashley Merritt",
+        "discharge_date": "2025-06-26",
+        "primary_diagnosis": "Acute Kidney Injury",
+        "medications": [
+            "Losartan 25mg daily"
+        ],
+        "dietary_restrictions": "Low potassium diet",
+        "follow_up": "Nephrology follow-up in 10 days",
+        "warning_signs": "Confusion, reduced urination, nausea",
+        "discharge_instructions": "Avoid NSAIDs, hydrate well, monitor symptoms"
+    },
+    {
+        "patient_name": "Jamie Cochran",
+        "discharge_date": "2025-06-06",
+        "primary_diagnosis": "Dialysis Initiation",
+        "medications": [
+            "Phosphate binders",
+            "Erythropoietin",
+            "Vitamin D"
+        ],
+        "dietary_restrictions": "Low phosphorus, potassium, sodium",
+        "follow_up": "Dialysis center thrice a week",
+        "warning_signs": "Weight gain, high BP, cramps",
+        "discharge_instructions": "Adhere to dialysis schedule strictly"
+    },
+    {
+        "patient_name": "Kelly Carter",
+        "discharge_date": "2025-05-25",
+        "primary_diagnosis": "Polycystic Kidney Disease",
+        "medications": [
+            "Tolvaptan 15mg twice daily"
+        ],
+        "dietary_restrictions": "Increased fluid intake",
+        "follow_up": "Genetics consultation in 3 weeks",
+        "warning_signs": "Flank pain, hematuria, dizziness",
+        "discharge_instructions": "Maintain fluid intake, avoid contact sports"
+    },
+    {
+        "patient_name": "David Haas",
+        "discharge_date": "2025-07-01",
+        "primary_diagnosis": "Stage 2 CKD",
+        "medications": [
+            "Enalapril 10mg daily"
+        ],
+        "dietary_restrictions": "Low sodium diet",
+        "follow_up": "Primary care visit in 2 weeks",
+        "warning_signs": "BP changes, fatigue, leg swelling",
+        "discharge_instructions": "Monitor diet, daily BP logging"
+    },
+    {
+        "patient_name": "Kimberly Owens",
+        "discharge_date": "2025-05-08",
+        "primary_diagnosis": "Acute Kidney Injury",
+        "medications": [
+            "Losartan 25mg daily"
+        ],
+        "dietary_restrictions": "Low potassium diet",
+        "follow_up": "Nephrology follow-up in 10 days",
+        "warning_signs": "Confusion, reduced urination, nausea",
+        "discharge_instructions": "Avoid NSAIDs, hydrate well, monitor symptoms"
+    },
+    {
+        "patient_name": "Levi Lee",
+        "discharge_date": "2025-06-22",
+        "primary_diagnosis": "Kidney Stone Removal",
+        "medications": [
+            "Tamsulosin 0.4mg daily",
+            "Painkillers as needed"
+        ],
+        "dietary_restrictions": "Increase water intake, avoid oxalate-rich foods",
+        "follow_up": "Urology follow-up in 10 days",
+        "warning_signs": "Severe flank pain, fever, hematuria",
+        "discharge_instructions": "Strain urine, stay hydrated"
+    },
+    {
+        "patient_name": "Caroline Davis",
+        "discharge_date": "2025-06-30",
+        "primary_diagnosis": "Kidney Transplant - Post-op",
+        "medications": [
+            "Tacrolimus",
+            "Prednisone",
+            "Mycophenolate"
+        ],
+        "dietary_restrictions": "Low fat, avoid grapefruit",
+        "follow_up": "Transplant clinic in 3 days",
+        "warning_signs": "Fever, graft tenderness, high BP",
+        "discharge_instructions": "Monitor temperature, take immunosuppressants strictly"
+    },
+    {
+        "patient_name": "Thomas Dean",
+        "discharge_date": "2025-05-29",
+        "primary_diagnosis": "Stage 2 CKD",
+        "medications": [
+            "Enalapril 10mg daily"
+        ],
+        "dietary_restrictions": "Low sodium diet",
+        "follow_up": "Primary care visit in 2 weeks",
+        "warning_signs": "BP changes, fatigue, leg swelling",
+        "discharge_instructions": "Monitor diet, daily BP logging"
+    },
+    {
+        "patient_name": "Joanna Johnson",
+        "discharge_date": "2025-06-15",
+        "primary_diagnosis": "Hypertensive Nephropathy",
+        "medications": [
+            "Amlodipine 5mg daily",
+            "Hydrochlorothiazide 25mg daily"
+        ],
+        "dietary_restrictions": "Low sodium, low protein diet",
+        "follow_up": "Family physician in 1 week",
+        "warning_signs": "High BP, headache, chest pain",
+        "discharge_instructions": "Check BP twice daily, avoid high-sodium foods"
+    },
+    {
+        "patient_name": "Tracy White",
+        "discharge_date": "2025-06-28",
+        "primary_diagnosis": "Kidney Transplant - Post-op",
+        "medications": [
+            "Tacrolimus",
+            "Prednisone",
+            "Mycophenolate"
+        ],
+        "dietary_restrictions": "Low fat, avoid grapefruit",
+        "follow_up": "Transplant clinic in 3 days",
+        "warning_signs": "Fever, graft tenderness, high BP",
+        "discharge_instructions": "Monitor temperature, take immunosuppressants strictly"
+    },
+    {
+        "patient_name": "Michelle Meadows",
+        "discharge_date": "2025-06-24",
+        "primary_diagnosis": "Recurrent Urinary Tract Infections",
+        "medications": [
+            "Nitrofurantoin 100mg daily"
+        ],
+        "dietary_restrictions": "None",
+        "follow_up": "Urology consultation in 3 weeks",
+        "warning_signs": "Burning urination, fever, cloudy urine",
+        "discharge_instructions": "Increase water intake, hygiene practices"
+    },
+    {
+        "patient_name": "Savannah Arnold PhD",
+        "discharge_date": "2025-05-27",
+        "primary_diagnosis": "Proteinuria due to Nephrotic Syndrome",
+        "medications": [
+            "Prednisone",
+            "Atorvastatin",
+            "ACE inhibitors"
+        ],
+        "dietary_restrictions": "Low sodium, moderate protein",
+        "follow_up": "Nephrologist in 1 week",
+        "warning_signs": "Foamy urine, swelling, weight gain",
+        "discharge_instructions": "Avoid high-protein diet, monitor urine"
+    },
+    {
+        "patient_name": "Brandon Morrison",
+        "discharge_date": "2025-05-31",
+        "primary_diagnosis": "CKD Stage 4 with Anemia",
+        "medications": [
+            "Erythropoietin injection weekly",
+            "Iron supplements"
+        ],
+        "dietary_restrictions": "Low phosphorus, high iron diet",
+        "follow_up": "Hematology in 2 weeks",
+        "warning_signs": "Fatigue, pallor, shortness of breath",
+        "discharge_instructions": "Monitor hemoglobin levels regularly"
+    },
+    {
+        "patient_name": "Jenny Valdez",
+        "discharge_date": "2025-05-23",
+        "primary_diagnosis": "Proteinuria due to Nephrotic Syndrome",
+        "medications": [
+            "Prednisone",
+            "Atorvastatin",
+            "ACE inhibitors"
+        ],
+        "dietary_restrictions": "Low sodium, moderate protein",
+        "follow_up": "Nephrologist in 1 week",
+        "warning_signs": "Foamy urine, swelling, weight gain",
+        "discharge_instructions": "Avoid high-protein diet, monitor urine"
+    },
+    {
+        "patient_name": "Justin Kidd",
+        "discharge_date": "2025-06-27",
+        "primary_diagnosis": "Kidney Transplant - Post-op",
+        "medications": [
+            "Tacrolimus",
+            "Prednisone",
+            "Mycophenolate"
+        ],
+        "dietary_restrictions": "Low fat, avoid grapefruit",
+        "follow_up": "Transplant clinic in 3 days",
+        "warning_signs": "Fever, graft tenderness, high BP",
+        "discharge_instructions": "Monitor temperature, take immunosuppressants strictly"
+    },
+    {
+        "patient_name": "Mary Hull",
+        "discharge_date": "2025-05-31",
+        "primary_diagnosis": "Acute Kidney Injury",
+        "medications": [
+            "Losartan 25mg daily"
+        ],
+        "dietary_restrictions": "Low potassium diet",
+        "follow_up": "Nephrology follow-up in 10 days",
+        "warning_signs": "Confusion, reduced urination, nausea",
+        "discharge_instructions": "Avoid NSAIDs, hydrate well, monitor symptoms"
+    },
+    {
+        "patient_name": "Diana Keller",
+        "discharge_date": "2025-05-10",
+        "primary_diagnosis": "Dialysis Initiation",
+        "medications": [
+            "Phosphate binders",
+            "Erythropoietin",
+            "Vitamin D"
+        ],
+        "dietary_restrictions": "Low phosphorus, potassium, sodium",
+        "follow_up": "Dialysis center thrice a week",
+        "warning_signs": "Weight gain, high BP, cramps",
+        "discharge_instructions": "Adhere to dialysis schedule strictly"
+    },
+    {
+        "patient_name": "Donald Campos",
+        "discharge_date": "2025-06-18",
+        "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+        "medications": [
+            "Lisinopril 10mg daily",
+            "Furosemide 20mg twice daily"
+        ],
+        "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+        "follow_up": "Nephrology clinic in 2 weeks",
+        "warning_signs": "Swelling, shortness of breath, decreased urine output",
+        "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+    },
+    {
+        "patient_name": "Karen Spencer",
+        "discharge_date": "2025-05-24",
+        "primary_diagnosis": "Hypertensive Nephropathy",
+        "medications": [
+            "Amlodipine 5mg daily",
+            "Hydrochlorothiazide 25mg daily"
+        ],
+        "dietary_restrictions": "Low sodium, low protein diet",
+        "follow_up": "Family physician in 1 week",
+        "warning_signs": "High BP, headache, chest pain",
+        "discharge_instructions": "Check BP twice daily, avoid high-sodium foods"
+    },
+    {
+        "patient_name": "Courtney Alvarado",
+        "discharge_date": "2025-06-17",
+        "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+        "medications": [
+            "Lisinopril 10mg daily",
+            "Furosemide 20mg twice daily"
+        ],
+        "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+        "follow_up": "Nephrology clinic in 2 weeks",
+        "warning_signs": "Swelling, shortness of breath, decreased urine output",
+        "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+    },
+    {
+        "patient_name": "Joseph Norris",
+        "discharge_date": "2025-05-10",
+        "primary_diagnosis": "Kidney Stone Removal",
+        "medications": [
+            "Tamsulosin 0.4mg daily",
+            "Painkillers as needed"
+        ],
+        "dietary_restrictions": "Increase water intake, avoid oxalate-rich foods",
+        "follow_up": "Urology follow-up in 10 days",
+        "warning_signs": "Severe flank pain, fever, hematuria",
+        "discharge_instructions": "Strain urine, stay hydrated"
+    },
+    {
+        "patient_name": "Andres Allen",
+        "discharge_date": "2025-06-16",
+        "primary_diagnosis": "Hypertensive Nephropathy",
+        "medications": [
+            "Amlodipine 5mg daily",
+            "Hydrochlorothiazide 25mg daily"
+        ],
+        "dietary_restrictions": "Low sodium, low protein diet",
+        "follow_up": "Family physician in 1 week",
+        "warning_signs": "High BP, headache, chest pain",
+        "discharge_instructions": "Check BP twice daily, avoid high-sodium foods"
+    },
+    {
+        "patient_name": "Willie Madden",
+        "discharge_date": "2025-06-11",
+        "primary_diagnosis": "Recurrent Urinary Tract Infections",
+        "medications": [
+            "Nitrofurantoin 100mg daily"
+        ],
+        "dietary_restrictions": "None",
+        "follow_up": "Urology consultation in 3 weeks",
+        "warning_signs": "Burning urination, fever, cloudy urine",
+        "discharge_instructions": "Increase water intake, hygiene practices"
+    },
+    {
+        "patient_name": "Veronica Johnston",
+        "discharge_date": "2025-06-28",
+        "primary_diagnosis": "Dialysis Initiation",
+        "medications": [
+            "Phosphate binders",
+            "Erythropoietin",
+            "Vitamin D"
+        ],
+        "dietary_restrictions": "Low phosphorus, potassium, sodium",
+        "follow_up": "Dialysis center thrice a week",
+        "warning_signs": "Weight gain, high BP, cramps",
+        "discharge_instructions": "Adhere to dialysis schedule strictly"
+    }
+]
